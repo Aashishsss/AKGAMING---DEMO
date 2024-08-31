@@ -1,4 +1,5 @@
 # AKGAMING---DEMO
 This is my first Git Repository
 <br>
-Author - Aashish 
+
+<i> Author - Aashish <i>
